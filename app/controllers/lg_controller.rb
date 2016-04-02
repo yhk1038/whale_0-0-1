@@ -1,0 +1,2 @@
+class LgController < ApplicationController
+end

@@ -1,0 +1,2 @@
+class SamsungController < ApplicationController
+end

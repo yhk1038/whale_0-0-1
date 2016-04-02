@@ -1,0 +1,2 @@
+module SamsungHelper
+end
